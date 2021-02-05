@@ -1,20 +1,24 @@
 .WeatherForecast {
   text-align: center;
-  margin: 10px 0;
+  margin: 20px 0;
   font-size: 18px;
 }
 
-.WeatherForecast .col-2 {
+.WeatherForecast .WeatherForecastPreview {
   background-color: rgb(233, 246, 250);
   padding: 10px 5px;
   border-radius: 5px;
   margin: 3px;
-  max-width: 15.5%;
+}
+
+.WeatherForecast .col-4 {
+  font-size: 24px;
+  padding-top: 20px;
 }
 
 .WeatherForecast canvas {
   display: block;
-  margin: 5px auto;
-  padding: 10px 0;
+  margin: 0 auto;
+  padding: 0 0 10px 0;
   max-width: 46px;
 }
