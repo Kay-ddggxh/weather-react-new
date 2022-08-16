@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Weather App
+
+Weather App built with React for SheCodes React certificate workshop.
+
+Visit the [live site here](https://frosty-jepsen-97d062.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
